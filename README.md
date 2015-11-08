@@ -11,7 +11,7 @@ virtual environment:
 	$ source venv/bin/activate
 	(venv)$ pip install -r requirements.txt 
 	...
-	(venv)$ python angular_example.py 
+	(venv)$ python react_example.py 
 	 * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
 ```
 then go to [localhost:5001](http://localhost:5001/).  
