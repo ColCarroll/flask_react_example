@@ -12,8 +12,8 @@ virtual environment:
 	(venv)$ pip install -r requirements.txt 
 	...
 	(venv)$ python angular_example.py 
-	 * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+	 * Running on http://127.0.0.1:5001/ (Press CTRL+C to quit)
 ```
-then go to [localhost:5000](http://localhost:5001/).  
+then go to [localhost:5001](http://localhost:5001/).  
 
 Just want to see it running?  Go over to [here](http://reactdemo.colindcarroll.com/).
