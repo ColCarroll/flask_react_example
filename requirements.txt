@@ -2,7 +2,7 @@ Flask==0.10.1
 itsdangerous==0.24
 Jinja2==2.8
 MarkupSafe==0.23
-numpy==1.10.1
+numpy==1.22.0
 scikit-learn==0.16.1
 scipy==0.16.1
 sklearn==0.0
